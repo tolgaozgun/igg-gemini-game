@@ -20,8 +20,8 @@ Before running the project, make sure you have Python installed on your machine.
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/pygame-shopkeeper.git
-   cd pygame-shopkeeper
+   git clone https://github.com/tolgaozgun/igg-gemini-game.git
+   cd igg-gemini-game
 
    ```
 
