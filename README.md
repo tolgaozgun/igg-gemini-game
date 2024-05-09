@@ -2,6 +2,10 @@
 
 This repository contains a simple pygame project that demonstrates NPC interaction within a virtual shop environment. The project utilizes the Gemini and GenAI APIs to handle dynamic interactions and responses from the shopkeeper NPC.
 
+## LANGUAGE
+
+For English prompt and messages, clone english branch! Main branch supports Turkish message and prompts!
+
 ## Features
 
 - User can interact with the shopkeeper by typing their inquiries or requests.
