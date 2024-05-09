@@ -11,7 +11,7 @@ def main():
     pygame.font.init()
     screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
     clock = pygame.time.Clock()
-    npc = NPC('shopkeeper.webp', 'small_shopkeeper.webp', 'dialog3.png', 'Selam!')
+    npc = NPC('shopkeeper.webp', 'small_shopkeeper.webp', 'dialog3.png', 'Hello!')
     dialog_manager = DialogManager(npc)
     input_box = InputBox(180, 400, 600, 40, dialog_manager)
     input_boxes = [input_box]
